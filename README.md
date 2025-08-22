@@ -46,7 +46,7 @@
 ---
 
 ##  Сборка (Build)
-- [Скачать билд для Windows][(https://drive.google.com/...)](https://github.com/Arseniy-Vishnevskiy/epidemia/releases/tag/v0.1.0-alfa)  
+- [Скачать билд для Windows][(https://github.com/Arseniy-Vishnevskiy/epidemia/releases/tag/v0.1.0-alfa)]
 
 ---
 
