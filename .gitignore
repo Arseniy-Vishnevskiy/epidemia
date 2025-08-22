@@ -1,0 +1,16 @@
+Library/
+Temp/
+Build/
+Builds/
+Logs/
+UserSettings/
+*.csproj
+*.sln
+*.pidb
+*.mdb
+*.pdb
+*.unityproj
+*.apk
+*.aab
+*.zip
+*.rar

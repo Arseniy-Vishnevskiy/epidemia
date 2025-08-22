@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|c:\\users\\arsyx\\unityprojects\\projects\\tst_prjkt\\assets\\ui\\exitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\exitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\camerafading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\camerafading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|c:\\users\\arsyx\\unityprojects\\projects\\tst_prjkt\\assets\\ui\\charmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\charmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\playercontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\loadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\loadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\respawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\respawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\savecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\savecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\savepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\savepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\scenetransitiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\scenetransitiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\entrancepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\entrancepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\loadingscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\loadingscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\cameramove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\cameramove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Library\\PackageCache\\com.unity.ugui@f3fac7af1578\\Runtime\\UGUI\\UI\\Core\\Image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@f3fac7af1578\\Runtime\\UGUI\\UI\\Core\\Image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\changeicon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\changeicon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA24CDC9-653B-4141-2F92-362C99B28E7B}|Assembly-CSharp-Editor.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\tutorialinfo\\scripts\\editor\\readmeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA24CDC9-653B-4141-2F92-362C99B28E7B}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\editor\\readmeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\assets\\tutorialinfo\\scripts\\readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B59559-76EF-6DBF-E301-561D0FF7E08D}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exitButton.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\UI\\exitButton.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\exitButton.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\UI\\exitButton.cs",
+              "RelativeToolTip": "Assets\\UI\\exitButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:04:47.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharMenu.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\UI\\CharMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\CharMenu.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\UI\\CharMenu.cs",
+              "RelativeToolTip": "Assets\\UI\\CharMenu.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:52:56.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RespawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\RespawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\RespawnManager.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\RespawnManager.cs",
+              "RelativeToolTip": "Assets\\RespawnManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:42:40.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\GameController.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\GameController.cs",
+              "RelativeToolTip": "Assets\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:38:50.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\SpawnManager.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\SpawnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:25:13.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EntrancePoint.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\EntrancePoint.cs",
+              "RelativeDocumentMoniker": "Assets\\EntrancePoint.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\EntrancePoint.cs",
+              "RelativeToolTip": "Assets\\EntrancePoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:18:30.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SceneTransitionData.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\SceneTransitionData.cs",
+              "RelativeDocumentMoniker": "Assets\\SceneTransitionData.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\SceneTransitionData.cs",
+              "RelativeToolTip": "Assets\\SceneTransitionData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:15:42.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraFading.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\CameraFading.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraFading.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\CameraFading.cs",
+              "RelativeToolTip": "Assets\\CameraFading.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:39:43.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "startGame.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\startGame.cs",
+              "RelativeDocumentMoniker": "Assets\\startGame.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\startGame.cs",
+              "RelativeToolTip": "Assets\\startGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T22:25:33.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Library\\PackageCache\\com.unity.ugui@f3fac7af1578\\Runtime\\UGUI\\UI\\Core\\Image.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@f3fac7af1578\\Runtime\\UGUI\\UI\\Core\\Image.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Library\\PackageCache\\com.unity.ugui@f3fac7af1578\\Runtime\\UGUI\\UI\\Core\\Image.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@f3fac7af1578\\Runtime\\UGUI\\UI\\Core\\Image.cs",
+              "ViewState": "AgIAAJMEAAAAAAAAAAAjwKUEAADnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T22:16:52.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoadScene.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\LoadScene.cs",
+              "RelativeDocumentMoniker": "Assets\\LoadScene.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\LoadScene.cs",
+              "RelativeToolTip": "Assets\\LoadScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:45:42.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoadingScene.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\LoadingScene.cs",
+              "RelativeDocumentMoniker": "Assets\\LoadingScene.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\LoadingScene.cs",
+              "RelativeToolTip": "Assets\\LoadingScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:42:43.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChangeIcon.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\ChangeIcon.cs",
+              "RelativeDocumentMoniker": "Assets\\ChangeIcon.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\ChangeIcon.cs",
+              "RelativeToolTip": "Assets\\ChangeIcon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T21:42:59.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerCombat.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\PlayerCombat.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerCombat.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\PlayerCombat.cs",
+              "RelativeToolTip": "Assets\\PlayerCombat.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAtwGwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T07:25:25.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\HealthBar.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\HealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:06:06.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SavePoint.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\SavePoint.cs",
+              "RelativeDocumentMoniker": "Assets\\SavePoint.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\SavePoint.cs",
+              "RelativeToolTip": "Assets\\SavePoint.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:41:24.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SaveController.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\SaveController.cs",
+              "RelativeDocumentMoniker": "Assets\\SaveController.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\SaveController.cs",
+              "RelativeToolTip": "Assets\\SaveController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:15:30.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\SaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\SaveData.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\SaveData.cs",
+              "RelativeToolTip": "Assets\\SaveData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:14:08.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerControllerScript.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\PlayerControllerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerControllerScript.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\PlayerControllerScript.cs",
+              "RelativeToolTip": "Assets\\PlayerControllerScript.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowCYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:22:06.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Enemy.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAjwF0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:17:12.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Character.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\Character.cs",
+              "RelativeToolTip": "Assets\\Character.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:45:18.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CameraMove.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\CameraMove.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraMove.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\CameraMove.cs",
+              "RelativeToolTip": "Assets\\CameraMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:56:22.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Readme.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T11:44:40.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReadmeEditor.cs",
+              "DocumentMoniker": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "ToolTip": "C:\\Users\\arsyx\\UnityProjects\\projects\\tst_prjkt\\Assets\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:38:25.085Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
